@@ -122,6 +122,11 @@ PolicyRAG follows a **prompt-driven, entity-guided pipeline**:
 ├── 📁 debug_trace_final/          # Debug information
 └── 📁 final_output_dataset/       # Final processed datasets
 
-
+<p align="center">
+  <img align="center" src="https://github.com/tejas-sarnaik/PolicyRAG/blob/main/images/ICLR_Diagram1_1_page-0001.jpg" />
+</p>
+<p align="center">
+  <b>Figure 1:</b> ProPEX-RAG methodology.
+</p>
 
 ```
