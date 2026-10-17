@@ -1,6 +1,6 @@
 <h1 align="center">PolicyRAG: Prompt-Guided Symbolic Graph Memory for Interpretable Multi-Hop Retrieval</h1>
 
-----
+--
 > **PolicyRAG** is a graph-enhanced retrieval framework that combines symbolic knowledge graphs, entity-guided retrieval, and evidence-based ranking to support interpretable multi-hop question answering.
 
 ### Environment Setup
