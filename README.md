@@ -1,6 +1,7 @@
 <h1 align="center">PolicyRAG: Prompt-Guided Symbolic Graph Memory for Interpretable Multi-Hop Retrieval</h1>
 
 ----
+> **PolicyRAG** is a graph-enhanced retrieval framework that combines symbolic knowledge graphs, entity-guided retrieval, and evidence-based ranking to support interpretable multi-hop question answering.
 
 ### Environment Setup
 
@@ -15,6 +16,11 @@
 
 2. Configure Models and API Keys
    - Replace the default models in config.py with your custom models (if needed)
+
+### Prerequisites
+- Python 3.10
+- Conda (recommended)
+- Required API credentials for the configured LLM or embedding provider
 
 ## 🚀 Quick Start
 
