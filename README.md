@@ -133,17 +133,13 @@ PolicyRAG follows a **prompt-driven, entity-guided pipeline**:
 </p>
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ## Issues and Contributions
-
 Bug reports, feature requests, and suggestions are welcome. Please open an issue in the GitHub repository.
 
 ## Contact
-
 Questions or issues? File an issue or contact [Tejas Sarnaik](mailto:tejassarnaik2120@gmail.com).
 
 ---
-
 © 2026 PolicyRAG. All rights reserved.
