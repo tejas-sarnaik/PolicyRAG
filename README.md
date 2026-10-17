@@ -122,6 +122,8 @@ PolicyRAG follows a **prompt-driven, entity-guided pipeline**:
 ├── 📁 debug_trace_final/          # Debug information
 └── 📁 final_output_dataset/       # Final processed datasets
 
+```
+
 <p align="center">
   <img align="center" src="https://github.com/tejas-sarnaik/PolicyRAG/blob/main/images/ICLR_Diagram1_1_page-0001.jpg" />
 </p>
@@ -129,4 +131,14 @@ PolicyRAG follows a **prompt-driven, entity-guided pipeline**:
   <b>Figure 1:</b> ProPEX-RAG methodology.
 </p>
 
-```
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Issues and Contributions
+
+Bug reports, feature requests, and suggestions are welcome. Please open an issue in the GitHub repository.
+
+## Contact
+
+Questions or issues? File an issue or contact [Tejas Sarnaik](mailto:tejassarnaik2120@gmail.com).
